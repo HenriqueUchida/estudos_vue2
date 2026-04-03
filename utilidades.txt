@@ -1,0 +1,4 @@
+comando para iniciar o projeto vue:
+npm create vue@codigo_versao/vue@latest
+
+após rodar o comando acima, entrar na pasta do projeto que foi criada e rodar o npm install e ao finalizar, rodar o npm run dev (isso irá instalar as dependencias do npm e iniciar um servidor)
